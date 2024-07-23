@@ -1,0 +1,1 @@
+El pdf esta mal, ya que debes decribir que es lo que vas hacer en la prueba, definir los pasos y decir que es exactamente lo que vas hacer, es decir en la seleccion de padres vas a tener que definir una poblacion iniical de 2*4 por el numero de compbinaciones posibles para los individuos. 
