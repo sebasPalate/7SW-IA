@@ -14,30 +14,38 @@ Este repositorio contiene toda la materia de Inteligencia Artificial 2024
          7SW-IA-02-BID-MyC.py
          7SW-IA-02-DFS-MyC.py
          7SW-IA-02-IDS-MyC.py
+
    2. Búsquedas Informadas
          7SW-IA-03-A-8Puzzle.py
+
    3. Búsquedas Locales
          Ascenso Colinas Estocastico.py
          Ascenso Colinas.py
          Template Simulado.py
+
    4. Genético (Algoritmo Genético)
          7SW-IA-05-8ReinasGenetico.py
+
    5. Prueba Medio Parcial
          Evaluación del primer medio parcial.pdf
          IA-Prueba.pdf
          IA-Prueba.py
          Leeme.txt
          Seleccion Padres.excalidraw
+
    6. Aprendizaje Basado en Reglas
         Asociacion
            7SW-IA-Apriori.py
+
         Clasificacion
            7SW-IA-Prism.py
+
         dataset
            7SW-IA-Limpieza.py
            Atributos.excalidraw
            RespuestasForm.csv
            RespuestasFormLimpio.csv
+
    7. Proyecto (Lógica Diusa - Controlador Difuso)
           7SW-LD-Controlador
           Controlador.py
@@ -51,23 +59,29 @@ Este repositorio contiene toda la materia de Inteligencia Artificial 2024
         Bidireccional.py
         Iterativo.py
         Profundidad.py
+
      8Puzzle
         anchura_8puzzle.py
         iterativo_8puzzle.py
         profundidad_8puzzle.py
+
    Materia.png
 2P
    1. Ecualizador
       imagenes
       7SW-IA-Ecualizador.py
+
    2. Deteccion Objetos
       imagenes
       7SW-IA-DeteccionOBJS.py
+
    3. Mascaras Suavizado
       imagenes
       7SW-IA-Suavizado.py
+
    4. Mascaras de Acentuado
       FiltrosAcentuados.py
+
    5. DT (Árbol de Desición)
       DATA
          clasificacion_manual
@@ -81,6 +95,7 @@ Este repositorio contiene toda la materia de Inteligencia Artificial 2024
          datasetImg64x64.csv
          modelado.py
          modelado02.py
+
    6. Prueba
       transformador
       clasificacion_knn.py
@@ -89,6 +104,7 @@ Este repositorio contiene toda la materia de Inteligencia Artificial 2024
       test_one_hot.csv
       train.csv
       train_one_hot.csv
+
    7. SVM
       imagenes
       modelo
@@ -99,6 +115,7 @@ Este repositorio contiene toda la materia de Inteligencia Artificial 2024
       multiclase_ove_vs_one.ipynb
       onevsone.joblib
       onevsone.py
+
    Materia.png
 ```
 ## Dependencias
